@@ -14,6 +14,8 @@ When I create new users, I give them a randomly generated password. I always ask
 
 Once they click "close" they won't see the nag again.
 
+[Support Forum](https://github.com/billerickson/Password-Pointer/issues)
+
 == Changelog ==
 
 **Version 0.1**
