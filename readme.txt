@@ -3,8 +3,8 @@ Contributors: billerickson
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MQKRBRFVRUV8C
 Tags: pointer, password, admin
 Requires at least: 3.3
-Tested up to: 3.3
-Stable tag: trunk
+Tested up to: 3.4.1
+Stable tag: 0.1
 
 Creates a pointer that nags users to change their password.
 
