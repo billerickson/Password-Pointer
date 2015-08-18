@@ -3,7 +3,7 @@
  * Plugin Name: Password Pointer
  * Plugin URI: http://www.billerickson.net/
  * Description: Creates a pointer that nags users to change their password.
- * Version: 0.1
+ * Version: 1.1
  * Author: Bill Erickson
  * Author URI: http://www.billerickson.net
  *
@@ -15,7 +15,7 @@
  * even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  *
  * @package Password Pointer
- * @version 0.1
+ * @version 1.1
  * @author Bill Erickson <bill@billerickson.net>
  * @copyright Copyright © 2011, Bill Erickson
  * @link http://www.billerickson.net/shortcode-to-display-posts/
